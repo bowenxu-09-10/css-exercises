@@ -39,3 +39,12 @@ body {
   border-radius: 4px;
 }
 
+.content {
+  display: flex;
+  flex: auto;
+}
+
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+}
