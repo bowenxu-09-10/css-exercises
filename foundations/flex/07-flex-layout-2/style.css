@@ -53,7 +53,7 @@ body {
 .card-container {
   display: flex;
   flex-wrap: wrap;
-  gap: 32px;
+  gap: 48px;
 }
 
 ul {
